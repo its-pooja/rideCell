@@ -1,10 +1,12 @@
 # rideCell
 To verify user repositories
 
+Follow below steps for installation and test suite execution:
+
 Automation Framework For Github Repository
 
 Clone the framework at your local machine using:
-git clone <GitHubProjectLink>
+git clone https://github.com/its-pooja/rideCell.git
 
 Open the project in pyCharm.
 
