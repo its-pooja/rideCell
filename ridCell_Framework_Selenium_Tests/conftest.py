@@ -9,6 +9,7 @@ from ridCell_Framework_Selenium_Tests.rideCell_Framework_Selenium_DataSource.rid
 
 @pytest.fixture(params=["chrome"], scope="class")
 def init_driver(request):
+
     log = logGeneration.customLogger()
 
     options = webdriver.ChromeOptions()

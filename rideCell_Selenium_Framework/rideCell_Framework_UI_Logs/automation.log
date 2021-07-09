@@ -1,0 +1,185 @@
+06/28/2021 01:22:08 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:22:17 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:22:17 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:22:17 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:22:19 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 01:22:19 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 01:22:22 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 01:22:22 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 01:22:22 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+06/28/2021 01:22:22 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 01:35:49 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:35:54 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:35:55 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:35:55 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:35:56 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 01:35:56 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 01:35:59 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 01:35:59 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 01:35:59 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+06/28/2021 01:35:59 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 01:38:34 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:38:43 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:38:43 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:38:43 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:38:45 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 01:38:45 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 01:38:48 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 01:38:48 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 01:38:48 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+06/28/2021 01:38:48 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 01:45:26 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:45:36 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:45:37 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:45:37 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:45:38 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 01:45:38 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 01:45:41 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 01:45:41 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 01:45:41 AM - rideCell_Framework_Utilities_BasicAction - logs_and_screenshot - logs_and_screenshot - ERROR: Test Case test_verifyRepositoriesAndDescriptions has Failed
+06/28/2021 01:45:41 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 01:46:35 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:46:43 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:46:44 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:46:44 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:46:45 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 01:46:45 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 01:46:48 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 01:46:48 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 01:46:48 AM - rideCell_Framework_Utilities_BasicAction - logs_and_screenshot - logs_and_screenshot - ERROR: Test Case test_verifyRepositoriesAndDescriptions has Failed
+06/28/2021 01:46:48 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 01:47:57 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:48:05 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:48:06 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:48:06 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:48:07 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 01:48:07 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 01:48:10 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 01:48:10 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 01:48:10 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+06/28/2021 01:48:10 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 01:49:22 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:49:31 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:49:31 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:49:31 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:49:33 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 01:49:33 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 01:49:36 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 01:49:36 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 01:49:36 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+06/28/2021 01:49:36 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 01:55:30 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 01:55:42 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 01:55:43 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 01:55:43 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 01:55:44 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 02:03:00 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 02:03:06 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 02:03:06 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 02:03:06 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 02:03:08 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 02:03:08 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 02:03:11 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 02:03:11 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 02:03:11 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+06/28/2021 02:03:11 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+06/28/2021 09:26:47 PM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+06/28/2021 09:26:57 PM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+06/28/2021 09:26:58 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+06/28/2021 09:26:58 PM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+06/28/2021 09:27:00 PM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+06/28/2021 09:27:00 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+06/28/2021 09:27:00 PM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+06/28/2021 09:27:00 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+06/28/2021 09:27:00 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+06/28/2021 09:27:00 PM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/01/2021 12:55:42 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/01/2021 12:55:53 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/01/2021 12:55:54 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/01/2021 12:55:54 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/01/2021 12:55:55 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/01/2021 12:55:55 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/01/2021 12:55:56 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/01/2021 12:55:56 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/01/2021 12:55:56 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/01/2021 12:55:56 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/01/2021 12:58:32 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/01/2021 12:58:35 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/01/2021 12:58:35 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/01/2021 12:58:35 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/01/2021 12:58:37 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/01/2021 12:58:37 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/01/2021 12:58:38 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/01/2021 12:58:38 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/01/2021 12:58:38 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/01/2021 12:58:38 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/01/2021 12:58:55 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/01/2021 12:58:59 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/01/2021 12:59:00 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/01/2021 12:59:00 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/01/2021 12:59:02 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/01/2021 12:59:02 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/01/2021 12:59:02 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/01/2021 12:59:02 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/01/2021 12:59:02 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/01/2021 12:59:02 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/01/2021 01:18:41 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/01/2021 01:18:45 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/01/2021 01:18:46 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/01/2021 01:18:46 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/01/2021 01:18:47 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/01/2021 01:18:47 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/01/2021 01:18:48 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/01/2021 01:18:48 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/01/2021 01:18:48 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/01/2021 01:18:48 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/01/2021 01:36:11 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/01/2021 01:36:15 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/01/2021 01:36:16 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/01/2021 01:36:16 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/01/2021 01:36:18 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/01/2021 01:36:18 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/01/2021 01:36:18 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/01/2021 01:36:18 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/01/2021 01:36:18 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/01/2021 01:36:18 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/01/2021 02:41:16 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/01/2021 02:41:21 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/01/2021 02:41:21 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/01/2021 02:41:21 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/01/2021 02:41:23 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/01/2021 02:41:23 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/01/2021 02:41:23 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/01/2021 02:41:23 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/01/2021 02:41:23 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/01/2021 02:41:23 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/02/2021 07:12:54 PM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/02/2021 07:13:01 PM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/02/2021 07:13:02 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/02/2021 07:13:02 PM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/02/2021 07:13:04 PM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/02/2021 07:13:04 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/02/2021 07:13:05 PM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/02/2021 07:13:05 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/02/2021 07:13:05 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/02/2021 07:13:05 PM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/09/2021 11:57:36 AM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/09/2021 11:57:49 AM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/09/2021 11:57:50 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/09/2021 11:57:50 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/09/2021 11:57:51 AM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/09/2021 11:57:51 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/09/2021 11:57:52 AM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/09/2021 11:57:52 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/09/2021 11:57:52 AM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/09/2021 11:57:52 AM - conftest - init_driver - init_driver - INFO: Closing the browser
+07/09/2021 12:04:34 PM - conftest - init_driver - init_driver - INFO: Launching chrome browser
+07/09/2021 12:04:42 PM - rideCell_PageObject_github_repositories - githubRepository - click_repository_tab - INFO: Clicking on repository tab
+07/09/2021 12:04:43 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from UI
+07/09/2021 12:04:43 PM - rideCell_PageObject_github_repositories - githubRepository - getRepositoriesName - INFO: Getting repository Names from UI
+07/09/2021 12:04:45 PM - rideCell_PageObject_github_repositories - githubRepository - getRepositoryNameAndDescription - INFO: Returning dictionary of repository names and description from UI
+07/09/2021 12:04:45 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Getting repository names and descriptions from API
+07/09/2021 12:04:45 PM - rideCell_API_github_repositories - GitHub_API - GitHub_API - INFO: Returning dictionary  of repository names and description from API
+07/09/2021 12:04:45 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Comparing repository names and description from UI and API
+07/09/2021 12:04:45 PM - test_TC01_rideCell_Tests_GitHub_Repo_FindRepoNameDesc - test_verifyRepositoriesAndDescriptions - test_verifyRepositoriesAndDescriptions - INFO: Test Case Passed
+07/09/2021 12:04:45 PM - conftest - init_driver - init_driver - INFO: Closing the browser

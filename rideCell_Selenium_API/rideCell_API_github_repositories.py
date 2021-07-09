@@ -7,10 +7,13 @@ from ridCell_Framework_Selenium_Tests.rideCell_Framework_Selenium_DataSource.rid
 from rideCell_Selenium_Framework.rideCell_Framework_Utilities.rideCell_Framework_UI_logger import logGeneration
 
 
-
 class gitHubRepositoryAPI(BasicAction):
+
     @staticmethod
     def GitHub_API():
+        """
+         returns dictionary of repository name and description from API
+         """
         log = logGeneration.customLogger()
 
         response = requests.get(BaseData.api_url)

@@ -2,7 +2,10 @@ from selenium.webdriver.common.by import By
 from rideCell_Selenium_Framework.rideCell_Framework_Utilities.rideCell_Framework_Utilities_BasicAction import BasicAction
 from rideCell_Selenium_Framework.rideCell_Framework_Utilities.rideCell_Framework_UI_logger import logGeneration
 
+""" 
+Page Object Model for Repository Page
 
+"""
 class githubRepository(BasicAction):
 
     repositoryTab_Tab_CssSelector = (By.CSS_SELECTOR,"nav[class*='js-profile-tab'] ul[class*='list-style'] li:nth-child(1) > a")
@@ -11,32 +14,48 @@ class githubRepository(BasicAction):
     log = logGeneration.customLogger()
 
     def click_repository_tab(self):
+        """
+        Clicking on the repository tab
+        """
         log.info("Clicking on repository tab")
         self.perform_click(self.repositoryTab_Tab_CssSelector)
 
     def getRepositoriesName(self):
+        """
+        returns list of all repositories names
+        """
         log.info("Getting repository Names from UI")
         return self.get_elements(self.repositories_name_link_xpath)
 
     def get_xpath(self,var):
-        return self.driver.find_element(By.XPATH, "//a[@href=""'" + var + "'""]//parent::h3//following-sibling::p")
+        """
+        returns description of repository name passed as argument
+
+        :Args:
+        - value: href attribute of repository name
+        """
+        return self.driver.find_element(By.XPATH, "//a[@href='" + var + "']//parent::h3//following-sibling::p")
 
     def getRepositoryNameAndDescription(self):
-        repository_desc= []
+        """
+        returns dictionary of repository name and description
+        """
         repository_names = []
+        repository_desc= []
 
         repositories = self.getRepositoriesName()
 
         for name in repositories:
             repository_names.append(name.text)
-            try:
+
+            try :
                 href = name.get_attribute("href")
                 partial_href = href.replace("https://github.com", "")
 
                 desc = self.get_xpath(partial_href)
                 repository_desc.append(desc.text)
 
-            except:
+            except :
                 repository_desc.append(None)
                 continue
 

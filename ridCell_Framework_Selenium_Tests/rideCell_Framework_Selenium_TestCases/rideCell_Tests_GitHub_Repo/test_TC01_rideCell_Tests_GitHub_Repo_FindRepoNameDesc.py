@@ -12,6 +12,9 @@ from rideCell_Selenium_Framework.rideCell_Framework_Utilities.rideCell_Framework
 class Test_GitHub:
 
     def test_verifyRepositoriesAndDescriptions(self):
+        """
+        TC : Verify if repository names and descriptions retrieved from UI and API are same.
+        """
         log = logGeneration.customLogger()
         base = BasicAction(self.driver)
         self.git = githubRepository(self.driver)
